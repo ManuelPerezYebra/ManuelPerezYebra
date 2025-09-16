@@ -4,10 +4,6 @@
 <h1 align="center">Hola 👋, Soy Manuel Pérez Yebra</h1>
 <p align="center">Desde mi infancia, la tecnología ha sido mi principal fuente de inspiración y motivación. Actualmente, como desarrollador web, encuentro un profundo sentido de satisfacción en la creación de soluciones digitales innovadoras. Mi compromiso con el aprendizaje continuo y mi pasión por la excelencia me impulsan a seguir avanzando en mi carrera. Estoy ansioso por abrazar nuevos desafíos y contribuir al avance de la industria tecnológica con determinación y profesionalismo.</p>
 
-- 🌱 ESTOY ESTUDIANDO **Desarrollo Web Full Stack, React**
-
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN EN: <a href='https://manucodedev.es'>www.manucodedev.es</a>
-
 - 📫 PUEDES CONTACTARME EN: **manuelperezyebra@gmail.com / manucodedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
